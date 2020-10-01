@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Address Book</string>
+    <string name="address_book">Address Book</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="add_new_contact">Add New Contact</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="address">Address</string>
+    <string name="save">Save</string>
+    <string name="no_contacts">No Contacts</string>
+    <string name="empty_contact_description">Use the \'+\' icon to add a new contact</string>
+
+    <string name="error_this_field_required">This field is required</string>
+    <string name="error_invalid_email">Invalid email</string>
+    <string name="error_name_min_length">Should contains %1$d symbols</string>
+    <string name="added">Added.</string>
+    <string name="error_contact_add">Error to add contact.</string>
+</resources>
